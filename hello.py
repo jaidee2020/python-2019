@@ -1,3 +1,7 @@
+#############################
+# Learn Python Coding in 2023
+# by Ed Bul
+#############################
 
 import os
 os.system('clear')
